@@ -14,10 +14,14 @@ I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I rea
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=reactjs&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= 'https://github.com/annachervon?tab=repositories&q=&type=&language=nodejs&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=mongodb&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=mysql&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jquery'> </a>
+<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=git&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=github&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+
 
 
 
