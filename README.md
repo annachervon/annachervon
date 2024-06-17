@@ -2,9 +2,9 @@
 
 I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I really enjoy learning in general and frameworks like React and other front-end development tools. I also enjoy wireframing, ux, ui, and design. 
 
-🌱 I’m currently learning TypeScript & Photoshop & enrolled in the CS50 course at Harvard University.
-🙌 Looking for opportunities to grow and become a better developer!
-📫 How to reach me: send me a direct message on my LinkedIn profile at https://www.linkedin.com/in/anna-chervonnaya/
+* 🌱 I’m currently learning TypeScript & Photoshop & enrolled in the CS50 course at Harvard University.
+* 🙌 Looking for opportunities to grow and become a better developer!
+* 📫 How to reach me: send me a direct message on my LinkedIn profile at https://www.linkedin.com/in/anna-chervonnaya/
 
 # My Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <a href="https://github.com/ annachervon?tab=repositories&q=&type=&language=html&sort=" ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
