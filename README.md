@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I really enjoy learning in general and frameworks like React and other front-end development tools. I also enjoy wireframing, ux, ui, and design in general. 
+I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I really enjoy learning in general and frameworks like React and other front-end development tools. I also enjoy wireframing, ux, ui, and design. 
 
 🌱 I’m currently learning TypeScript & Photoshop & enrolled in the CS50 course at Harvard University.
 🙌 Looking for opportunities to grow and become a better developer!
