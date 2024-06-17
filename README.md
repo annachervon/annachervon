@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Anna 👋
 
-I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I really enjoy learning in general and frameworks like React and other front-end development tools. I also enjoy wireframing, ux, ui, and design. 
+I'm from Montreal, and I focus on Design and Front-End Development. I really enjoy learning in general and frameworks like React and other front-end development tools. I also enjoy wireframing, ux, ui, and design. 
 
 * 🌱 I’m currently learning TypeScript & Photoshop & enrolled in the CS50 course at Harvard University.
 * 🙌 Looking for opportunities to grow and become a better developer!
@@ -14,11 +14,8 @@ I'm Anna from Montreal, Canada, and I do Design and Front-End Development. I rea
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=reactjs&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= 'https://github.com/annachervon?tab=repositories&q=&type=&language=nodejs&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=mongodb&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=mysql&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jquery'> </a>
-<a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=express&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=git&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= 'https://github.com/ annachervon?tab=repositories&q=&type=&language=github&sort=' > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
